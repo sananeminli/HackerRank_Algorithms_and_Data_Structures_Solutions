@@ -1,8 +1,5 @@
-    
-
-
-
-
+//This java function solution for Hackerrank question ACM ICPC Team.
+//Question Link: https://www.hackerrank.com/challenges/acm-icpc-team/problem  
 
 public static List<Integer> acmTeam(List<String> topic) {
         
