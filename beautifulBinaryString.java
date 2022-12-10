@@ -1,4 +1,5 @@
-    
+    //This java function solution for Hackerrank question Beautiful Binary String.
+    //Question Link: https://www.hackerrank.com/challenges/beautiful-binary-string/problem
     
     
     public static int beautifulBinaryString(String binary_string) {
