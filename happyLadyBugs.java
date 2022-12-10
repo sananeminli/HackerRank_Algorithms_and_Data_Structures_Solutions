@@ -1,4 +1,5 @@
-
+    //This java function solution for Hackerrank question Happy Ladybugs.
+    //Question Link: https://www.hackerrank.com/challenges/happy-ladybugs/problem
 
 
 public static String happyLadybugs(String b) {
