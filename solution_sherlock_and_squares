@@ -1,4 +1,5 @@
         This function below is the solution for Sherlock and Squares question. This code passed all tests.
+        Problem link: https://www.hackerrank.com/challenges/sherlock-and-squares/problem
         
         
         public static int squares(int a, int b) {
