@@ -1,5 +1,5 @@
-    This java function solution for Hackerrank question Maximizing XOR.
-    Question Link: https://www.hackerrank.com/challenges/maximizing-xor/problem
+    //This java function solution for Hackerrank question Maximizing XOR.
+    //Question Link: https://www.hackerrank.com/challenges/maximizing-xor/problem
     
     
     public static int maximizingXor(int l, int r) {
