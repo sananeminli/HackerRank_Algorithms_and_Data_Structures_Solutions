@@ -1,4 +1,4 @@
-    //This java function solution for Hackerrank question Happy Ladybugs.
+    //This java function solution for Hackerrank question Halloween Sale.
     //Question Link: https://www.hackerrank.com/challenges/halloween-sale/problem
     
     
