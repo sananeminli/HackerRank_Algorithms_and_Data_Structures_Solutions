@@ -1,4 +1,5 @@
-    
+//This java function solution for Hackerrank question Service Lane.
+//Question Link: https://www.hackerrank.com/challenges/service-lane/problem 
 
 
 
